@@ -1,7 +1,7 @@
 # CpWallet for Duniocoin (DUCO)
 
 # Releases 
-None - initial Release is soon
+None - Initial Release is soon
 
 # Things it can do 
 
