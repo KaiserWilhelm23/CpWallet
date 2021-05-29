@@ -3,7 +3,7 @@
 # Releases 
 None - initial Release is soon
 
-#Things it can do 
+# Things it can do 
 
 - Login / Register Accounts
 - Check Ballance of the current logged in user
