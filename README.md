@@ -17,3 +17,8 @@ None - Initial Release is soon
 # Devlopers
 - Blaze005 (Will Payne)
 - Samuel20354
+
+
+# What it will look like:
+
+![appdemo](https://github.com/blaze005/CpWallet/blob/main/Capture.PNG?raw=true)
